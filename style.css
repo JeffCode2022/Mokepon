@@ -1,0 +1,12 @@
+
+body{
+    background-image: linear-gradient(to top, rgba(48, 208, 208, 0.411) 0%, rgba(51, 8, 103, 0.377) 50%), url(./img/poke2.jpg);
+    font-family: 'Open Sans', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position : center;
+    height: 100%;
+    color: #ffff;
+    
+}
